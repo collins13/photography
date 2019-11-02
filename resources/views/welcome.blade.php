@@ -10,16 +10,16 @@
     <!-- Place favicon.ico in the root directory -->
     {{-- <link href="images/apple-touch-icon.png" type="images/x-icon" rel="shortcut icon"> --}}
     <!-- All css files are included here. -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/core.css">
-    <link rel="stylesheet" href="/style.css">
-    <link rel="stylesheet" href="/css/responsive.css">
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/core.css')}}">
+    <link rel="stylesheet" href="{{asset('style.css')}}">
+    <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
 
     <!-- customizer style css -->
     <link href="#" data-style="styles" rel="stylesheet">
-    <link rel="stylesheet" href="/css/default.css" rel="">
+    <link rel="stylesheet" href="{{asset('css/default.css')}}" rel="">
     <!-- Modernizr JS -->
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="{{asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 </head>
 <body>
     <!--[if lt IE 8]>
@@ -812,17 +812,17 @@
     
     
     <!-- All js plugins included in this file. -->
-    <script src="/js/vendor/jquery-1.12.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.nivo.slider.pack.js"></script>
-    <script src="/js/isotope.pkgd.min.js"></script>
-    <script src="/js/jquery.magnific-popup.js"></script>
-    <script src="/js/jquery.counterup.min.js"></script>
-    <script src="/js/animated-headlines.js"></script>
-    <script src="/js/waypoints.min.js"></script>
-    <script src="/js/jquery.collapse.js"></script>
-    <script src="/js/plugins.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="{{asset('js/vendor/jquery-1.12.0.min.js')}}"></script>
+    <script src="{{asset('js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('js/jquery.nivo.slider.pack.js')}}"></script>
+    <script src="{{asset('js/isotope.pkgd.min.js')}}"></script>
+    <script src="{{asset('js/jquery.magnific-popup.js')}}"></script>
+    <script src="{{asset('js/jquery.counterup.min.js')}}"></script>
+    <script src="{{asset('js/animated-headlines.js')}}"></script>
+    <script src="{{asset('js/waypoints.min.js')}}"></script>
+    <script src="{{asset('js/jquery.collapse.js')}}"></script>
+    <script src="{{asset('js/plugins.js')}}"></script>
+    <script src="{{asset('js/main.js')}}"></script>
 
 </body>
 
