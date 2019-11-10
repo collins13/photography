@@ -57,19 +57,6 @@
                                         <ul>
                                             <li><a href="index.html">Home</a></li>
                                             <li><a href="about-us.html">about</a></li>
-
-                                            <li><a href="#">Feature</a>
-                                                <ul class="dropdown_menu">
-                                                    <li><a href="#">404</a></li>
-                                                    <li><a href="#">contact us</a></li>
-                                                    <li><a href="#">Blog page</a></li>
-                                                    <li><a href="#">Blog details</a></li>
-                                                    <li><a href="#">Food menu</a></li>
-                                                    <li><a href="#">gallery</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="gallery.html">gallery</a></li>
-                                            <li><a href="blog.html">blog</a></li>
                                             <li><a href="contact-us.html">contact</a></li>
                                         </ul>
                                     </div>
@@ -103,19 +90,6 @@
                             <ul>
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="about-us.html">about</a></li>
-
-                                <li><a href="#">Feature</a>
-                                    <ul class="dropdown_menu">
-                                        <li><a href="404.html">404</a></li>
-                                        <li><a href="contact-us.html">contact us</a></li>
-                                        <li><a href="blog.html">Blog page</a></li>
-                                        <li><a href="blog-details.html">Blog details</a></li>
-                                        <li><a href="food-menu.html">Food menu</a></li>
-                                        <li><a href="gallery.html">gallery</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="gallery.html">gallery</a></li>
-                                <li><a href="blog.html">blog</a></li>
                                 <li><a href="contact-us.html">contact</a></li>
                             </ul>
                         </nav>
@@ -158,7 +132,7 @@
                                     <div class="slide1-text">
                                         <div class="middle-text">
                                             <div class="title-1 wow rotateInDownRight" data-wow-duration="0.9s" data-wow-delay="0s">
-                                                <h2 style="color:aliceblue">Welcome DPS </h2>
+                                                <h2 style="color:aliceblue">Welcome To DPS </h2>
                                             </div>
                                             <div class="title-2 wow bounceInRight" data-wow-duration="1.2s" data-wow-delay="0.2s">
                                                 <h1 style="color:aliceblue">loves quality photos</h1>
@@ -195,7 +169,7 @@
                                     <div class="slide2-text">
                                         <div class="middle-text">
                                             <div class="title-1 wow rotateInDownRight" data-wow-duration="0.9s" data-wow-delay="0s">
-                                                <h2 style="color:aliceblue">Welcome Resta DPS</h2>
+                                                <h2 style="color:aliceblue">Welcome To DPS</h2>
                                             </div>
                                             <div class="title-2 wow bounceInRight" data-wow-duration="1.2s" data-wow-delay="0.2s">
                                                 <h1 style="color:aliceblue">loves quality photos</h1>
@@ -232,10 +206,10 @@
                                     <div class="slide3-text">
                                         <div class="middle-text">
                                             <div class="title-1 wow rotateInDownRight" data-wow-duration="0.9s" data-wow-delay="0s">
-                                                <h2 style="color:aliceblue">Welcome Resta Restaurant</h2>
+                                                <h2 style="color:aliceblue">Welcome To DPS</h2>
                                             </div>
                                             <div class="title-2 wow bounceInRight" data-wow-duration="1.2s" data-wow-delay="0.2s">
-                                                <h1 style="color:aliceblue">loves healthy food</h1>
+                                                <h1 style="color:aliceblue">loves quality photos</h1>
                                             </div>
                                         </div>
                                     </div>
@@ -258,9 +232,9 @@
                             <p class="text1">Digitech Photosolutions Limited is a cutting edge photo studio that sells imported photography and videography products and accessories on a wholesale and retail basis. With well over ten years experience in the market, Digitech
                                 Photosoloutions has clients in most major towns in Kenya and neigbouring countries like Uganda, Tanzania, Rwanda and South Sudan.</p>
                             <p class="text1">Our continued success has been due to the fact that we always exceed client expectations by stocking a wide array of the latest products at competitive prices.<b style="color:black;"> You Name It; We Deliver It!</b></p>
-                            <div class="read-more">
+                            {{-- <div class="read-more">
                                 <a href="#">read more</a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -290,33 +264,30 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/81naihI0PmL._SL1500_.jpg" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="images/gallery/DSC_0343.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Nicon Camera</a></h3>
-                                                    <p class="price">ksh. 18000</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/1418993170_1040166.jpg" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="images/gallery/DSC_0389.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Camera flash</a></h3>
-                                                    <p class="price">ksh. 10,000</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 hidden-sm col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/1232984650_438972.jpg" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Studio lights</a></h3>
-                                                    <p class="price">ksh. 12000</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -325,22 +296,20 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/1.png" alt=""></a>
+                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">product Name Here</a></h3>
-                                                    <p class="price">$100</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/2.png" alt=""></a>
+                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Product Name Here</a></h3>
-                                                    <p class="price">$100</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -389,7 +358,7 @@
 
         <!-- end of our services -->
         <!--Our gallery start-->
-        <div class="our-gallery">
+        {{-- <div class="our-gallery">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
@@ -463,7 +432,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!--Our gallery end-->
         <!--reservation section start-->
         <div class="reservation ptb-100 white-bg">
@@ -495,7 +464,7 @@
                                                     <option>26Dec-10.00pm</option>
                                                     <option>2Jan-10.00pm</option>
                                                     <option>17Dec-10.00pm</option>
-                                                </select>
+                                            </select>
                                         </div>
                                     </div>
                                     <div class="reserve-submit mt-40">
@@ -511,207 +480,6 @@
             </div>
         </div>
         <!--reservation section end-->
-        <!--our blog start-->
-        <div class="our-blog grey-bg ptb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <div class="section-title grey_bg mb-50 text-center">
-                            <h2 class="mb-50">Our blog</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="blog-details">
-                    <div class="row">
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-blog">
-                                <div class="blog-thumbnail">
-                                    <img src="images/blog/10.jpg" alt="">
-                                </div>
-                                <div class="blog-desc">
-                                    <div class="publish-date">
-                                        <p>13<span>Mar</span></p>
-                                    </div>
-                                    <div class="blog-title">
-                                        <h3><a href="#">Lorem Ipsum is simply dummy</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="single-blog blog-video">
-                                <div class="blog-img">
-                                    <div class="blog-thumbnail">
-                                        <img src="images/blog/2.jpg" alt="">
-                                    </div>
-                                    <div class="blog-hover">
-                                        <a href="https://www.youtube.com/watch?v=oxPgDogVFnQ"><i class="mdi mdi-play"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 hidden-sm col-xs-12">
-                            <div class="single-blog">
-                                <div class="blog-thumbnail">
-                                    <img src="images/blog/3.jpg" alt="">
-                                </div>
-                                <div class="blog-desc">
-                                    <div class="publish-date">
-                                        <p>13<span>Mar</span></p>
-                                    </div>
-                                    <div class="blog-title">
-                                        <h3><a href="#">Lorem Ipsum is simply dummy</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--our blog end-->
-        <!--Tstimonial section start-->
-        <div class="testimonial ptb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <div class="section-title white_bg mb-50 text-center">
-                            <h2 class="mb-50">Our Client Loves</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="testimonial-sliders">
-                            <div class="row">
-                                <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2">
-                                    <div class="testimonial-image-slider text-center">
-                                        <div class="sin-testiImage">
-                                            <img src="images/testimonial/1.jpg" alt="testimonial 1" />
-                                        </div>
-                                        <div class="sin-testiImage">
-                                            <img src="images/testimonial/2.jpg" alt="testimonial 1" />
-                                        </div>
-                                        <div class="sin-testiImage">
-                                            <img src="images/testimonial/1.jpg" alt="testimonial 1" />
-                                        </div>
-                                        <div class="sin-testiImage">
-                                            <img src="images/testimonial/2.jpg" alt="testimonial 1" />
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-10 col-md-offset-1">
-                                    <div class="testimonial-text-slider text-center mt-30">
-                                        <div class="single-test-text">
-                                            <p class="text-qoute">
-                                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                            </p>
-                                            <p class="test-text"> </p>
-                                            <div class="test-title mb-50">
-                                                <!-- <h4>Sathi bhuiyan</h4>
-                                                <p>Manager</p> -->
-                                            </div>
-                                        </div>
-                                        <div class="single-test-text">
-                                            <p class="text-qoute">
-                                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                            </p>
-                                            <p class="test-text"></p>
-                                            <div class="test-title mb-50">
-                                                <!-- <h4>Mohin patwary</h4>
-                                                <p>Web Developer</p> -->
-                                            </div>
-                                        </div>
-                                        <div class="single-test-text">
-                                            <p class="text-qoute">
-                                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                            </p>
-                                            <p class="test-text"> </p>
-                                            <div class="test-title mb-50">
-                                                <!-- <h4>Tarek aziz</h4>
-                                                <p>Wordpress Developer</p> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Tstimonial section end-->
-        <!--Team brand start-->
-        <div class="team-brand ptb-100 grey-bg">
-            <div class="container">
-                <div class="row">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 col-xs-12 col-sm-12">
-                                <div class="team-list">
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-1.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-2.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-3.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-4.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-1.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-2.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-3.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-4.png" alt=""></a>
-                                    </div>
-                                    <div class="single-team">
-                                        <a href="#"><img src="images/logo/team-3.png" alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Team brand end-->
-        <!--Offer section start-->
-        <div class="offer-section fix">
-            <div class="bg-img ptb-100">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-md-offset-3">
-                            <div class="offer-inner text-center">
-                                <h2 class="ttle1">
-                                    50% Off
-                                </h2>
-                                <h2 class="ttle2">
-                                    our Top Offer
-                                </h2>
-                                <p> Get the Cheapest with a best Quality offer of Our products and services For every First time You Purchase. </p>
-                                <div class="order-now">
-                                    <a href="#">order now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Offer section end-->
-        <!--Footer section start-->
         <div class="footer">
             <div class="footer-top ptb-100 grey-bg">
                 <div class="container">
@@ -747,47 +515,6 @@
                                         <ul>
                                             <li>Monday- Friday. . . . . . . . . . . . . <span>8 AM - 5PM</span></li>
                                         </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="single-footer instagram">
-                                <h3 class="single-footer-title">instagram</h3>
-                                <div class="single-footer-details mt-30">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/1.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/2.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/3.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/4.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/5.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/instagram/6.jpg" alt=""></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="single-footer newsletter">
-                                <h3 class="single-footer-title">Newsletter</h3>
-                                <div class="single-footer-details mt-30">
-                                    <p>Enter your email to subscribe to our daily newsletter. </p>
-                                    <div class="newsletter-form">
-                                        <form action="#">
-                                            <input type="text" placeholder="Enter your email">
-                                            <button type="submit">submit</button>
-                                        </form>
                                     </div>
                                 </div>
                             </div>
