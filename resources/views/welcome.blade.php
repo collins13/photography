@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-md-2 col-sm-3 col-xs-6">
                         <div class="logo">
-                            <a href="index.html"><img src="" alt="DPS"></a>
+                            <a href="index.html"><img src="/images/logo/Digitech-Photo-Solutions-Logo.png" alt="DPS"></a>
                         </div>
                     </div>
                     <div class="col-md-10 col-sm-9 col-xs-6">
@@ -264,7 +264,7 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/gallery/DSC_0343.JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/CAMERAS/NIKON D5600 @60K.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Nicon Camera</a></h3>
@@ -274,20 +274,296 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/gallery/DSC_0389.JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/PAPER CUTTER/2K (2).jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Camera flash</a></h3>
+                                                    <h3><a href="">Paper Cutter</a></h3>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 hidden-sm col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/MICROPHONE HOLDER/@3000.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Studio lights</a></h3>
+                                                    <h3><a href="">MICROPHONE HOLDER</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {{-- <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">product Name Here</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Product Name Here</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="images/dish/3.png" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Product Name Here</a></h3>
+                                                    <p class="price">$100</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> --}}
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/BACKGROUND HOLDER/10k.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Background Holder</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/BATTERIES/DURACELL 4 PACK @350.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Batteries</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/BINOCULAR @12K/15k.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">BINOCULAR</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/BOOM POLE ,9k/DSC_3496.JPG" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">BOOM POLE</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CAMERAS/CANON 4000D @29K.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Canon Camera</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/BATTERIES/ENERGIZER AAAA @500.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Batteries</a></h3>
+                                                    {{-- <p class="price">$100</p> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CARD READER/1k.JPG" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Card Readers</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CHAIRS/121 7k (4).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Chairs</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/FIELD MONITORS/17K.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Field Monitors</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CARD READER/400ksh (1).JPG" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Card Readers</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CHAIRS/stool 1800 (5).JPG" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Stool</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CHAIRS/853 6,500 (1).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Chairs</a></h3>
+                                                    {{-- <p class="price">$100</p> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/FRAME/500.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Frames</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LENSE/Nikon Lens 70-300mm G.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Nicon Lenses</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LENSE CAP/CANON LENSE CAP @500.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Lense Caps</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LENSE/TAMRON 18-200MM @25k...jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Tamron Lense</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LENSE/Yongunuo for Canon @10k.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Yongunuo for Canon</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/CHAIRS/136- 6500 (5).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Chairs</a></h3>
+                                                    {{-- <p class="price">$100</p> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LENSE HOOD/600 (2).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">LENSE HOOD</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/LIGHTS/DEEP STUDIO LIGHT @ 10ksh PER SET.jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href=""> Studo Lights</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/MEMORY CARDS/SANDISK 64GB 95MB.S 2500 (2).JPG" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Memory Cards</a></h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -321,6 +597,75 @@
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Product Name Here</a></h3>
                                                     <p class="price">$100</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/PORTABLE STUDIO/9k (2).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">PORTABLE STUDIO</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/RECORDERS/15k (1).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href=""> Recorders</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/STANDS/10k (3).jpg" style="height: 250px;" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Stands</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dises-show text-center">
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/STABILIZER/12k (1).jpg" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Stabilizer</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-6 col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/SPEEDLIGHTS/9k (2).jpg" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Speed Lights</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 hidden-sm col-xs-12">
+                                            <div class="single-disesh">
+                                                <div class="disesh-img">
+                                                    <a href="#"><img src="/images/dps/SPEEDLIGHTS/9k (3).jpg" alt=""></a>
+                                                </div>
+                                                <div class="disesh-desc pt-50">
+                                                    <h3><a href="">Speed Lights</a></h3>
+                                                    {{-- <p class="price">$10</p> --}}
                                                 </div>
                                             </div>
                                         </div>
