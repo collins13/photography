@@ -55,9 +55,9 @@
                                 <div class="header-menu hidden-sm hidden-xs">
                                     <div class="menu">
                                         <ul>
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about-us.html">about</a></li>
-                                            <li><a href="contact-us.html">contact</a></li>
+                                        <li><a href="{{url('/')}}">Home</a></li>
+                                            {{-- <li><a href="about-us.html">about</a></li> --}}
+                                            <li><a href="{{route('contact')}}">contact</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -267,7 +267,7 @@
                                                     <a href="#"><img src="/images/dps/CAMERAS/NIKON D5600 @60K.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Nicon Camera</a></h3>
+                                                    <h3><a href="">Nikon Camera</a></h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -402,7 +402,7 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="/images/dps/CARD READER/1k.JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/2.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Card Readers</a></h3>
@@ -484,7 +484,7 @@
                                                     <a href="#"><img src="/images/dps/LENSE/Nikon Lens 70-300mm G.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Nicon Lenses</a></h3>
+                                                    <h3><a href="">Nikon Lenses</a></h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -550,7 +550,7 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="/images/dps/LIGHTS/DEEP STUDIO LIGHT @ 10ksh PER SET.jpg" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/light.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href=""> Studo Lights</a></h3>
@@ -568,35 +568,38 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="dises-list">
                                     <div class="dises-show text-center">
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/BOOM POLE/DSC_3496.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">product Name Here</a></h3>
+                                                    <h3><a href="">Boom Pole 1 </a></h3>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/gallery/DSC_0456.JPG" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/1233042477_470287.jpg" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Product Name Here</a></h3>
+                                                    <h3><a href=""> Boom Pole Black</a></h3>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 hidden-sm col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="images/dish/3.png" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/BOOM POLE/DSC_3498.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
-                                                    <h3><a href="">Product Name Here</a></h3>
-                                                    <p class="price">$100</p>
+                                                    <h3><a href="">Boom Pole 2 </a></h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -844,7 +847,7 @@
                                         <strong>Address2:</strong> Krishna House ground floor next to Ufundi co-operative building, Moktar Dadda Street (Jeevanjee).<br>Nairobi Kenya.
                                     </p>
                                     <p class="email">
-                                        <strong> Email:</strong> dpsstudioltd@gmail.com, <br>
+                                        <strong> Email:</strong> studio@dpsstudio.co.ke, <br>
                                     </p>
                                     <p class="phon">
                                         <strong>Phone:</strong>(+254731955712)<br>(+254713955712)<br>(+254777955710)
@@ -858,7 +861,10 @@
                                 <div class="single-footer-details mt-30">
                                     <div class="open-list">
                                         <ul>
-                                            <li>Monday- Friday. . . . . . . . . . . . . <span>8 AM - 5PM</span></li>
+                                            <h4></h4>
+                                            <li>jeevanjee: Monday- Friday. . .  <span>7 AM - 7PM</span></li>
+                                            <li>River Road: Monday- Friday. . .  <span>7 AM - 6PM</span></li>
+                                            <li>Luthuli avenue: Monday- Friday. . .  <span>7:30 AM - 6PM</span></li>
                                         </ul>
                                     </div>
                                 </div>

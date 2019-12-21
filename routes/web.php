@@ -9,8 +9,12 @@
 | routes are loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group. Now create something great!
 |
-*/
+ */
 
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('contact', 'ContactController@index')->name('contact');
+Route::post('contact-us', 'ContactController@create')->name('contact-us');
+// Route::post('contact-us', 'ContactController@index')->name('contact-us');
