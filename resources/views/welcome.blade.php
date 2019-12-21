@@ -389,7 +389,7 @@
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Batteries</a></h3>
-                                                    {{-- <p class="price">$100</p> --}}
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -402,7 +402,7 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="/images/dps/2.JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/CARD READER/400ksh(1).JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Card Readers</a></h3>
@@ -640,7 +640,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="dises-show text-center">
+                                    {{-- <div class="dises-show text-center">
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
@@ -668,11 +668,11 @@
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Speed Lights</a></h3>
-                                                    {{-- <p class="price">$10</p> --}}
+                                                    
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
@@ -680,6 +680,7 @@
                 </div>
             </div>
         </div>
+        <hr>
         <!--popular dises end-->
 
         <!-- our services  -->
@@ -783,6 +784,7 @@
         </div> --}}
         <!--Our gallery end-->
         <!--reservation section start-->
+        <hr>
         <div class="reservation ptb-100 white-bg">
             <div class="container">
                 <div class="row">
@@ -844,7 +846,7 @@
                                         <strong>Address2:</strong> Habib House ground floor, Gaberone road off Luthuli Avenue.<br>Nairobi Kenya.
                                     </p>
                                     <p class="addresses">
-                                        <strong>Address2:</strong> Krishna House ground floor next to Ufundi co-operative building, Moktar Dadda Street (Jeevanjee).<br>Nairobi Kenya.
+                                        <strong>Address3:</strong> Krishna Mansion ground floor next to Ufundi co-operative building, Moktar Dadda Street (Jeevanjee).<br>Nairobi Kenya.
                                     </p>
                                     <p class="email">
                                         <strong> Email:</strong> studio@dpsstudio.co.ke, <br>
