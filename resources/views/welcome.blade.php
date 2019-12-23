@@ -402,7 +402,7 @@
                                         <div class="col-md-4 col-sm-6 col-xs-12">
                                             <div class="single-disesh">
                                                 <div class="disesh-img">
-                                                    <a href="#"><img src="/images/dps/CARD READER/400ksh(1).JPG" style="height: 250px;" alt=""></a>
+                                                    <a href="#"><img src="/images/dps/CARD READER/1k.JPG" style="height: 250px;" alt=""></a>
                                                 </div>
                                                 <div class="disesh-desc pt-50">
                                                     <h3><a href="">Card Readers</a></h3>
@@ -866,7 +866,7 @@
                                             <h4></h4>
                                             <li>jeevanjee: Monday- Friday. . .  <span>7 AM - 7PM</span></li>
                                             <li>River Road: Monday- Friday. . .  <span>7 AM - 6PM</span></li>
-                                            <li>Luthuli avenue: Monday- Friday. . .  <span>7:30 AM - 6PM</span></li>
+                                            <li>Gaberone Road: Monday- Friday. . .  <span>7:30 AM - 6PM</span></li>
                                         </ul>
                                     </div>
                                 </div>
